@@ -58,6 +58,9 @@ main section{
 
 }
 
+.main-text{
+    z-index: 10;
+}
 .main-text img{
     width: 15rem;
     margin-bottom: 3vh;
@@ -140,7 +143,7 @@ main section{
 
 .main-img{
     transition: all 1s ease;
-    z-index: 100;
+    z-index: 1;
 }
 
 .main-img img{
@@ -157,7 +160,5 @@ main section{
     background: #445c42;
     clip-path: circle(800px at right 1000px);
 }
-
-
 
 
