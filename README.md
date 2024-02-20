@@ -1,1 +1,1 @@
-https://site-iphone.web.app/
+https://site-iphone.web.app
